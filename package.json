@@ -27,6 +27,9 @@
   "peerDependencies": {
     "mocha": "^2.1.0"
   },
+  "dependencies": {
+    "escape-string-regexp": "^1.0.2"
+  },
   "devDependencies": {
     "chai": "^1.10.0",
     "mocha": "^2.1.0",
